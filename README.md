@@ -4,6 +4,12 @@ Semantic-adaptive Message Broadcasting for Transformer-based UDA
 > [**SAMB**](https://arxiv.org/abs/2212.02739), Xin Li, Cuiling Lan, Guoqiang Wei, Zhibo Chen, 
 ![image](https://github.com/lixinustc/SAMB-TransformerUDA/blob/main/figs/SAMB.png)
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/semantic-aware-message-broadcasting-for/unsupervised-domain-adaptation-on-office-home)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-office-home?p=semantic-aware-message-broadcasting-for)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/semantic-aware-message-broadcasting-for/unsupervised-domain-adaptation-on-visda2017)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-visda2017?p=semantic-aware-message-broadcasting-for)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/semantic-aware-message-broadcasting-for/unsupervised-domain-adaptation-on-domainnet-1)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-domainnet-1?p=semantic-aware-message-broadcasting-for)
+
 # Abstract
 Vision transformer has demonstrated great potential
 in abundant vision tasks. However, it also inevitably suffers
