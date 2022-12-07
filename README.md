@@ -1,6 +1,7 @@
 # SAMB-TransformerUDA
 Semantic-adaptive Message Broadcasting for Transformer-based UDA
-
+  
+> [**SAMB**](https://arxiv.org/abs/2212.02739), Xin Li, Cuiling Lan, Guoqiang Wei, Zhibo Chen, 
 ![image](https://github.com/lixinustc/SAMB-TransformerUDA/blob/main/figs/SAMB.png)
 
 # Abstract
