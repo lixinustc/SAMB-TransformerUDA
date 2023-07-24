@@ -10,6 +10,9 @@ Semantic-adaptive Message Broadcasting for Transformer-based UDA
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/semantic-aware-message-broadcasting-for/unsupervised-domain-adaptation-on-domainnet-1)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-domainnet-1?p=semantic-aware-message-broadcasting-for)
 
+# News!!!
+The code for training strategies will be released around 2023/08/16. 
+
 # Abstract
 Vision transformer has demonstrated great potential
 in abundant vision tasks. However, it also inevitably suffers
