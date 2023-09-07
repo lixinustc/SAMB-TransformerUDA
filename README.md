@@ -1,7 +1,10 @@
 # SAMB-TransformerUDA
 Semantic-adaptive Message Broadcasting for Transformer-based UDA
   
-> [**SAMB**](https://arxiv.org/abs/2212.02739), Xin Li, Cuiling Lan, Guoqiang Wei, Zhibo Chen,
+
+[Xin Li](http://home.ustc.edu.cn/~lixin666/), [Cuiling Lan](https://scholar.google.com/citations?user=XZugqiwAAAAJ&hl=en), [Guoqiang Wei](https://scholar.google.com/citations?user=TxeZUTgAAAAJ&hl=en), [Zhibo Chen](https://scholar.google.com/citations?user=1ayDJfsAAAAJ&hl=en)
+
+University of Science and Technology of China (USTC), Microsoft Research Asia (MSRA),
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2212.02739)
 
