@@ -4,17 +4,20 @@ Semantic-adaptive Message Broadcasting for Transformer-based UDA
 > [**SAMB**](https://arxiv.org/abs/2212.02739), Xin Li, Cuiling Lan, Guoqiang Wei, Zhibo Chen,
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2212.02739)
-![image](https://github.com/lixinustc/SAMB-TransformerUDA/blob/main/figs/SAMB.png)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/semantic-aware-message-broadcasting-for/unsupervised-domain-adaptation-on-office-home)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-office-home?p=semantic-aware-message-broadcasting-for)
-
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/semantic-aware-message-broadcasting-for/unsupervised-domain-adaptation-on-visda2017)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-visda2017?p=semantic-aware-message-broadcasting-for)
-
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/semantic-aware-message-broadcasting-for/unsupervised-domain-adaptation-on-domainnet-1)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-domainnet-1?p=semantic-aware-message-broadcasting-for)
 
 ## 📌 News!!!
 - [x] | 07/09/2023 | The code for the first version of training strategies was released.
 - [ ] The second version of the training strategy will be updated with better performance. 
+
+
+## 🌟 Motivation
+<p align="center">
+  <img src="https://github.com/lixinustc/SAMB-TransformerUDA/blob/main/figs/SAMB.png" width="85%" height="85%">
+</p>
 
 
 
@@ -23,11 +26,11 @@ Please cite us if this work is helpful to you.
 
 
 ```
-@article{li2023learning,
-  title={Learning Distortion Invariant Representation for Image Restoration from A Causality Perspective},
-  author={Li, Xin and Li, Bingchen and Jin, Xin and Lan, Cuiling and Chen, Zhibo},
-  journal={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  year={2023}
+@article{li2022semantic,
+  title={Semantic-aware Message Broadcasting for Efficient Unsupervised Domain Adaptation},
+  author={Li, Xin and Lan, Cuiling and Wei, Guoqiang and Chen, Zhibo},
+  journal={arXiv preprint arXiv:2212.02739},
+  year={2022}
 }
 ```
 
