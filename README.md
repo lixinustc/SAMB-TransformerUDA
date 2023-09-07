@@ -67,3 +67,8 @@ effectiveness of our methods for UDA
 
 
 
+## Acknowledgments
+- [ToAlign](https://github.com/microsoft/UDA)
+- [CDTrans](https://github.com/CDTrans/CDTrans)
+
+
