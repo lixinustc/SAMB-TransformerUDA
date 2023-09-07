@@ -13,7 +13,7 @@ University of Science and Technology of China (USTC), Microsoft Research Asia (M
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/semantic-aware-message-broadcasting-for/unsupervised-domain-adaptation-on-domainnet-1)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-domainnet-1?p=semantic-aware-message-broadcasting-for)
 
 ## 📌 News!!!
-- [x] | 07/09/2023 | The code for the first version of training strategies was released.
+- [x] | 07/09/2023 | The code for the first version of training strategies was released. 
 - [ ] The second version of the training strategy will be updated with better performance. 
 
 
