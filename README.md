@@ -14,7 +14,7 @@ University of Science and Technology of China (USTC), Microsoft Research Asia (M
 
 ## 📌 News!!!
 - [x] | 07/09/2023 | The code for the first version of training strategies was released. 
-- [ ] The second version of the training strategy will be updated with better performance. 
+- [ ] The second version of the training strategy will be updated with better performance.
 
 
 ## 🌟 Motivation
@@ -22,6 +22,9 @@ University of Science and Technology of China (USTC), Microsoft Research Asia (M
   <img src="https://github.com/lixinustc/SAMB-TransformerUDA/blob/main/figs/SAMB.png" width="85%" height="85%">
 </p>
 
+## Usage
+
+Please replace the base_trainer.py in the framework of [ToAlign](https://github.com/microsoft/UDA) with this file and the model part with your model. 
 
 
 ## Cite US
